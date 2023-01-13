@@ -1,1 +1,1 @@
-# infa_2020_ivanov
+print("Hello world!")
